@@ -1,0 +1,38 @@
+body {
+    background-color: pink;
+  }
+  
+  #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #fireworksContainer {
+    text-align: center;
+  }
+  
+  #fireworksCanvas {
+    margin: 0 auto;
+  }
+  
+  #message {
+    font-size: 24px;
+    color: purple;
+    margin-top: 20px;
+  }
+  
